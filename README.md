@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 
 | Circle | Subject | Working |
 | :--: | --- | :--: |
-| 0 | Libft          |    |
-| 1 | get_next_line  |    |
+| **0** | Libft          |    |
+| **1** | get_next_line  |    |
 |   | ft_printf      |    |
 |   | netwhat        |    |
-| 2 | exam rank 02   |    |
+| **2** | exam rank 02   |    |
 |   | ft_server      |    |
 |   | cub3d          |    |
 |   | push_swap      |    |
-| 3 | exam rank 03   |    |
+| **3** | ~~exam rank 03~~   |    |
 |   | libasm         |    |
 |   | minishell      | ✅ |
 
