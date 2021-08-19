@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 | **3** | ~~exam rank 03~~   |    |
 |   | libasm         |    |
 |   | minishell      | ✅ |
+|   | philosopher    | ✅ |
 
