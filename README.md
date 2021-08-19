@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 [![sujeon's 42 stats](https://badge42.herokuapp.com/api/stats/sujeon?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
+
 | Circle | Subject | Working |
 | :--: | --- | :--: |
 | **0** | Libft          |    |
@@ -27,3 +28,5 @@ Here are some ideas to get you started:
 |   | minishell      | ✅ |
 |   | Philosopher    | ✅ |
 
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sinmoc0619">
