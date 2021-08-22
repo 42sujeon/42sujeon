@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 |   | minishell      | ✅ |
 |   | Philosopher    | ✅ |
 
-
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sinmoc0619">
