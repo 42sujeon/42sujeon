@@ -14,17 +14,20 @@ Here are some ideas to get you started:
 
 | Circle | Subject | Working |
 | :--: | --- | :--: |
-| **0** | Libft          |    |
-| **1** | get_next_line  |    |
-|   | ft_printf      |    |
-|   | netwhat        |    |
-| **2** | exam rank 02   |    |
-|   | ft_server      |    |
-|   | cub3d          |    |
-|   | push_swap      |    |
-| **3** | ~~exam rank 03~~   |    |
-|   | libasm         |    |
-|   | minishell      | ✅ |
-|   | Philosopher    | ✅ |
+| **0** | Libft          | |
+| **1** | get_next_line  | |
+|   | ft_printf      | |
+|   | netwhat        | |
+| **2** | Exam Rank 02   | |
+|   | ft_server      | |
+|   | cub3d          | |
+|   | push_swap      | |
+| **3** | Exam Rank 03   | |
+|   | libasm         | |
+|   | minishell      | |
+|   | Philosopher    | |
+| **4** | Exam Rank 04  |✅|
+|   | CPP Module 00-08  |✅|
+
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sinmoc0619">
