@@ -28,6 +28,3 @@ Here are some ideas to get you started:
 |   | Philosopher    | |
 | **4** | Exam Rank 04  |✅|
 |   | CPP Module 00-08  |✅|
-
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sinmoc0619">
