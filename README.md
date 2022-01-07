@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 
 
 
-## 42 Seoul
-[![sujeon's 42 stats](https://badge42.herokuapp.com/api/stats/sujeon?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+## 42 Seoul(20.9.28~)
 
 | Circle | Subject | Working |
 | :--: | --- | :--: |
