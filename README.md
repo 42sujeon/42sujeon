@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 |   | [Philosophers](https://github.com/sujeon42/philosophers)        |    |
 | 4 | Exam Rank 04                                                    | ✅ |
 |   | [CPP Module 00~08](https://github.com/42sujeon/cpp)             |    |
-| 5 | Exam Rank 05                                                    |    |
-|   | [Inception](https://github.com/mack-10/Inception.git)           | ✅ |
