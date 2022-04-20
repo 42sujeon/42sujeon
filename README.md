@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
 
 
-## 42 Seoul
+###▶️ 42 Seoul
