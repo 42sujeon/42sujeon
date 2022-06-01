@@ -3,6 +3,7 @@
 
 Here are some ideas to get you started:
 -->
+<h1 align="center">Sujin Jeon
 
 <h3 align="center">Hi there 👋🏻 !</h2>
 
