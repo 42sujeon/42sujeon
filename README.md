@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 <h3 align="center">Hi there 👋🏻 !</h2>
 
 <h3 align="center">▶️ Tech Stack</h3>
+  
 <p align="center">
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++%2B%2B&logoColor=white">
@@ -20,6 +21,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h4 align="center">▶️ 42 Seoul(2020.10 ~ 2022.3)</h4>
-<h4 align="center">▶️ Alice Track(2023.2 ~ )</h4>
+<h3 align="center">▶️ 42 Seoul(2020.10 ~ 2022.3)</h4>
+<h3 align="center">▶️ Alice Track(2023.2 ~ )</h4>
 
