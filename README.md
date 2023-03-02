@@ -15,6 +15,8 @@ Here are some ideas to get you started:
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
 </p>
 
+<br/>
 
-<h4>▶️ 42 Seoul(2020.10 ~ 2022.3)</h4>
-<h4>▶️ Alice Track(2023.3 ~ )</h4>
+<h4 align="center">▶️ 42 Seoul(2020.10 ~ 2022.3)</h4>
+<h4 align="center">▶️ Alice Track(2023.2 ~ )</h4>
+
