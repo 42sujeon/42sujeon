@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++%2B%2B&logoColor=white">
   <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 </p>
   
 <p class="skills" align="center">
