@@ -24,9 +24,17 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
-
-<p>
-  <h3>▶️ 42 Seoul(2020.10 ~ 2022.3)</h4>
-  <h3>▶️ Alice Track(2023.2 ~ )</h4>
+  
+<p class="bootcamp">
+  <h2>Bootcamp</h2>
+  <li>42 Seoul(2020.10 ~ 2022.3)</li>
+  <li>Alice Track(2023.2 ~ 2023.6)</li>
 </p>
 
+<br/>
+
+<!-- BADGE -->
+<h2>Badge</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mackerel-10)](https://github.com/mackerel-10/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinmoc0619)](https://solved.ac/sinmoc0619/)
