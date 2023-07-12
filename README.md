@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- BADGE -->
+<div align="center">
+  
 <h2 align="center">Badge</h2>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mackerel-10)](https://github.com/mackerel-10/github-readme-stats)
+
+</div>
