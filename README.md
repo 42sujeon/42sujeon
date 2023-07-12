@@ -3,38 +3,44 @@
 
 Here are some ideas to get you started:
 -->
-<h1 align="center">Sujin Jeon
 
-<h3 align="center">Hi there 👋🏻 !</h2>
+<h1 align="center">Hi 🐯! I'm Sujin Jeon</h1>
 
-<h3 align="center">▶️ Tech Stack</h3>
+<!-- Skill Stack -->
+<h2 align="center">🔧 Skill Stack</h3>
   
-<p class="language" align="center">
+<div class="language" align="center">
+  <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++%2B%2B&logoColor=white">
-  <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-</p>
+</div>
   
-<p class="skills" align="center">
+<div class="skills" align="center">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-</p>
+</div>
+
+<div class="" align="center">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+</div>
 
 <br/>
-  
-<p class="bootcamp">
-  <h2>Bootcamp</h2>
+
+<!-- Bootcamp -->
+
+<div align="center">
+  <h2>⛺️ Boot Camp</h2>
   <li>42 Seoul(2020.10 ~ 2022.3)</li>
   <li>Alice Track(2023.2 ~ 2023.6)</li>
-</p>
+</div>
 
 <br/>
 
 <!-- BADGE -->
-<h2>Badge</h2>
-
+<h2 align="center">Badge</h2>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mackerel-10)](https://github.com/mackerel-10/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinmoc0619)](https://solved.ac/sinmoc0619/)
