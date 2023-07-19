@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>⛺️ Boot Camp</h2>
   <li>42 Seoul(2020.10 ~ 2022.3)</li>
-  <li>Alice Track(2023.2 ~ 2023.6)</li>
+  <li>엘리스 트랙(2023.2 ~ 2023.6)</li>
 </div>
 
 <br/>
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
   
 <h2 align="center">Badge</h2>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mackerel-10)](https://github.com/mackerel-10/github-readme-stats)
+[![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mackerel-10)](https://github.com/mackerel-10/github-readme-stats)
 
 </div>
