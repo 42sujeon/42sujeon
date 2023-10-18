@@ -30,16 +30,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<!-- Bootcamp -->
-
-<div align="center">
-  <h2>⛺️ Boot Camp</h2>
-  <li>42 Seoul(2020.10 ~ 2022.3)</li>
-  <li>엘리스 트랙(2023.2 ~ 2023.6)</li>
-</div>
-
-<br/>
-
 <!-- BADGE -->
 <div align="center">
   
