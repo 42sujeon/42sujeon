@@ -4,35 +4,35 @@
 Here are some ideas to get you started:
 -->
 
-<h1 align="center">Hi 🐯! I'm Sujin Jeon</h1>
+<h1 align="center">Hi 👋  I'm Sujin Jeon</h1>
+<br/>
 
 <!-- Skill Stack -->
 <h2 align="center">🔧 Skill Stack</h3>
   
 <div class="language" align="center">
-  <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++%2B%2B&logoColor=white">
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
+
 </div>
   
-<div class="skills" align="center">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-</div>
-
-<div class="" align="center">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<div class="database skill" align="center">
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?stype=flat&logo=MySQL&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-C382D?style=flat&logo=Redis&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
+  
 </div>
 
 <br/>
 
 <!-- BADGE -->
 <div align="center">
-  
-<h2 align="center">Badge</h2>
   
 [![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mackerel-10)](https://github.com/mackerel-10/github-readme-stats)
 
