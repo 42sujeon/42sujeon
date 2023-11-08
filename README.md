@@ -24,17 +24,12 @@ Here are some ideas to get you started:
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?stype=flat&logo=MySQL&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-C382D?style=flat&logo=Redis&logoColor=white)
+  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+  ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white)
+  ![AWS Lightsail](https://img.shields.io/badge/AWS_Lightsail-FF9900?style=flat&logoColor=white)
+  
   ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
-  
-</div>
-
-<br/>
-
-<!-- BADGE -->
-<div align="center">
-  
-[![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mackerel-10)](https://github.com/mackerel-10/github-readme-stats)
 
 </div>
